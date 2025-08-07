@@ -18,7 +18,7 @@ O objetivo foi construir um site completo e visualmente atrativo para promover *
 
 ## 🌐 Acesse o projeto publicado
 
-🔗 Link: [https://luanmirandati.github.io/Front-end](https://luanmirandati.github.io/Front-end)
+🔗 Link: [https://luanmirandati.github.io/Front-end](https://luanmirandati.github.io/Front-end2/)
 
 ---
 
